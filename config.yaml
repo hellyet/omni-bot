@@ -1,0 +1,12 @@
+# This is an example of bot config
+
+id: 912160008651821127 # Your bot ID
+prefix: '!' # Command prefix
+token: '' # Bot token
+database: # Database configuration
+  drivername: '' # Example: postgresql
+  host: '' # IP addres or domain name
+  port: '' # 5432 by default
+  username: '' # Username to login
+  password: '' # Password to login
+  database: '' # Database name
